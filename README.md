@@ -38,7 +38,7 @@ API used: [https://fakestoreapi.com/products](https://fakestoreapi.com/products)
 
 SQL queries for analyzing online store sales data.  
 **Features:**
-- Calculate total sales for a given month.
+- Calculate total sales for March 2024..
 - Identify the top customer by total spent.
 - Compute average order value.
 
@@ -87,7 +87,7 @@ API used: [https://fakestoreapi.com/products](https://fakestoreapi.com/products)
 
 SQL queries for analyzing online store sales data.  
 **Features:**
-- Calculate total sales for a given month.
+- Calculate total sales for March 2024.
 - Identify the top customer by total spent.
 - Compute average order value.
 
